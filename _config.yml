@@ -1,5 +1,5 @@
 # Setup
-title:               Sudha SUbramanian
+title:               Sudha Subramanian
 tagline:             'My first blog'
 description:         'Made at R-Ladies Meetup'
 url:                 https://susub31.github.io
@@ -8,9 +8,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Sudha Subramanian
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             su.sub31@gmail.com
 
 # Custom vars
 version:             1.0.0
