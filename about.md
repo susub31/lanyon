@@ -40,6 +40,8 @@ I am a Data specialist with over 22 years of professional experience encompassin
 
 Learn more about my projects on [GitHub](https://github.com/susub31).
 
-[Research Initiatives](/research)
+Learn more about my [Research Initiatives](/research)
+
+Learn more about my [Volunteer Activities](/volunteer)
 
 Thanks for reading!

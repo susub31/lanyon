@@ -26,6 +26,5 @@ Presented the findings as a paper titled “Comparing Accuracy of Models Built o
 
 Learn more details at [Cluster Then Predict - Case Study](https://github.com/susub31/ClusterThenPredict-CaseStudy)
 
-[Research Initiatives](/Research)
 
 Enjoy reading!
