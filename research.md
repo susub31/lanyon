@@ -4,7 +4,7 @@ title: Research Initiatives
 ---
 
 <p class="message">
-  A few research initiatives ...
+  A few initiatives ...
 </p>
 
 
