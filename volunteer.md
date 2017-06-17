@@ -10,12 +10,12 @@ title: Volunteer Activities
 
 ### <strong>Organizations involved in...</strong>
 
-* Co-organizer, East Bay R Language Beginners Group
-* Member, DKSF (Data Kind San Francisco)
-* Member, R-Ladies SF Group (San Francisco)
-* Member, BARUG (Bay Area R Users Group)
+* Co-organizer, [East Bay R Language Beginners Group](https://www.meetup.com/r-enthusiasts/)
+* Member, DKSF - [Data Kind San Francisco](http://www.datakind.org/chapters/datakind-sf)
+* Member, [R-Ladies, San Francisco](https://www.meetup.com/rladies-san-francisco/)
+* Member, BARUG - [Bay Area R Users Group](https://www.meetup.com/R-Users/)
 * Member, Silicon Valley Data Science Group
-* Member, Women Who Code Silicon Valley 
+* Member, [Women Who Code Silicon Valley ](https://www.meetup.com/Women-Who-Code-Silicon-Valley/)
 * Member, WiMLDS (Women in Machine Learning & Data Science)
 * Sponsor, Dallas-R-Users Study Group
 
