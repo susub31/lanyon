@@ -24,5 +24,6 @@ title: Volunteer Activities
  
 Participated in Data Dive event at San Francisco (Aug 2016), worked with SparkPoint (United Way Bay Area) and helped provide insights through data analysis to imporove client retention rate
 
+Check out what was accomplished at DKSF's [Third DataDive](http://www.datakind.org/blog/datakind-san-franciscos-third-datadive)
 
 Enjoy volunteering!
