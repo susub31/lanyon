@@ -6,9 +6,9 @@ title: Why Learn R?
 With Machine Learning and Big Data being a hot topic in today's tech world, here are a few questions that come up to a beginner's mind:
 
 > Why Data Science?
-<br></br>
+<br>
 > What programming languages should I learn?
-<br></br>
+<br>
 > Where do I start?  
 
 If you enjoy solving problems and want to use data to substantiate your findings, Data Science is the field you want to be in.  We all deal with data in some form, on a day-to-day basis.  Let's say you are reviewing your annual credit card statement, which categorizes the spending across the year.  You can quickly see trends of your spending in each category across several months and derive where you need to reduce your spending.  If we are able to realize value out of the data we come across and make informed decisions, we have given ourselves the jumpstart we need.  Of course, you definitely need tools and skills to do this more efficiently.
