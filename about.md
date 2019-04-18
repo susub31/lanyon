@@ -4,44 +4,57 @@ title: About
 ---
 
 <p class="message">
-  Hey there! Interested in knowing about me?  Carry on!
+  Do checkout my portfolio!
 </p>
 
-Data Scientist with a keen interest to take on challenging business problems and provide a scalable solution.  Successfully demonstrated the power of data through actionable inisghts for businesses.  With over 22 years of professional experience and Master's in Data Science from UC Berkeley, has proven to deliver excellent results in a short span of time.  And, a strong believer that learning never ends.
+Data Scientist with a keen interest to take on challenging business problems and provide a scalable solution.  Successfully demonstrated the power of data through actionable inisghts for businesses.  Proven track record of delivering excellent results, with attention to detail.  Some of the recent work in Data Science includes few cutting-edge projects involving Object Detection, Deep Learning and NLP.  With 22+ years of professional experience and Master's in Data Science from UC Berkeley, a strong believer that learning never ends.
+
+
+
+## <strong>Awards / Recognition</strong>
+
+* Recipient of the prestigious [Jack Larson Data for Good Fellowship](https://www.ischool.berkeley.edu/news/2019/fellowship-recipient-addresses-homelessness-bay-area-and-beyond-data-science) for work done on homelessness
+* Recipient of iSchool Scholarship
+* Fellow, Delta Analytics (Jan - June 2018)
+
+
 
 ## <strong>Core Competencies</strong>
 
-| Core Skills      | Architectures / Algorithms  |
+|Core Skills       |Architectures / Algorithms   |
 |------------------|-----------------------------|
-| Deep Learning    | CNN, RNN, LSTM, BLSTM, BERT |
-| Machine Learning | SVM, Naive Bayes, Linear & Logistic Regression, |
+| Deep Learning    | CNN, RNN, LSTM, BLSTM, BERT (Pre-trained model for NLP tasks including NER and Classifier), BERT Contextual Embedding |
+| Architectures   | Transfer Learning using Google LeNet, AlexNet, VGG, Transformer, ResNet, MobileNet, YOLO architectures  |
+| Machine Learning | SVM, Naive Bayes, Linear & Logistic Regression, KNN, KMeans, Random Forest, XGBoost etc. |
+| NLP  |  Language Modeling, Embeddings, Named Entity Recognition & POS Tagging, Sentiment Analysis |
+| Visualization    | ggplot2 (R), matplotlib & Seaborn (Python)  |
+| R        | R packages: dplyr, tidyr, ggplot2, car & other statistical packages  |
+| Python        | Tensorflow, Flair, Spacy (NLP), Scipy, Numpy, Panda, Seaborn, Matplotlib, BeautifulSoup, OpenCV2, PIL to name a few |
+| Cloud Service | Google Cloud Platform, AWS, IBM SoftLayer, GPU (P100), TPU (Google Cloud), Docker  |
+| Big Data      | Hadoop, Hive, Presto, BigQuery, Kafka, Spark  |
+| Database      | SQL Server, Oracle, Postgress, NoSQL data stores (Redis) etc.  |
+| Other         | C#, .NET, NUnit, XML, XSLT, Visio, EDI (834, 835, 837), HL7, Agile/Scrum methodologies |
+| Additional Tools | Gazebo (Robot building), NVIDIA Jetson TX-2 for Deep Learning on the Edge |
 
-*	Data Analysis / Data Engineering
-*	Predictive Modeling / Machine Learning
-*	Insights through Data Visualizations
-*	Detail Oriented and Organized
 
 
-## <strong>Algorithms / Modeling Techniques</strong>
+## <strong>Recent Projects</strong>
  
-*	Linear / Logistic Regression
-*	Random Forest, CART, SVM, XGBoost
-*	Nearest Neighbor
-*	Gradient Boosting
-* Clustering (K-Means)
+*	A travel app that is live and used by many - [Adventure Time](http://www.adv-times.fun)
+*	An object detection tool using Deep Learning & DL on the Edge - [Safety Monitor](https://drive.google.com/file/d/1eQ7mry8gOg7tdb72VMnNkVDXEsgsRyiO/view?usp=sharing)
+*	Identify Heart Disease Risk Factors from Clinical Notes - [NLP & BERT](https://drive.google.com/file/d/1-hFvpmm9y6Czw-rYAeXivqavP7XbuApe/view?usp=sharing)
+*	Image Processing using CNN (Deep Learning) - [Facial Keypoint Detection](https://drive.google.com/file/d/1vA1jdNDgCgMJC39fJbTjaBs7YuhvIq3Y/view?usp=sharing)
+* Data Analysis using Google BigQuery - [Bike Share Analysis](https://drive.google.com/file/d/1Wvacb6odt7hZU5AZTZai-5ppq5gFEa1g/view?usp=sharing)
 
 
-## <strong>Work Experience</strong>
-*	In-depth data analysis / feature engineering across client’s processes
-*	Assess business problem and provide recommendations based on inferences from data
-*	Build Predictive Model (Risk Model) using ML techniques based on historical data from multiple sources and trends.  Provide customized solutions and actionable insights based on client’s current and historical data.
-*	Perform comparisons across various readily available algorithms; identify shortcomings and put forth methodology for building custom algorithms based on client requirements.  Substantiate choice of algorithms through comparison matrix encompassing all test scenarios.
-* Shown through calculations how implementations of these algorithms have saved clients millions of dollars over a period of time
-*	Communicate findings in the data through powerful visualizations
-*	Draft complex queries for various projects / ad hoc queries & reports; fine tune queries for performance
-*	Build core logic that forms the back-bone across various systems to provide Quality Control; that helped the clients monitor performance and incorporate appropriate changes. 
-*	Built the template for generating EDI 834 extracts (4010 & 5010 implementations).  Analyzed client requirements and setup EDI interfaces, including payroll and proprietary exports.
-*	Extensive background in healthcare industry including membership enrollment (834), claims processing (835 / 837), HL7 and ICD codes, eligibility and benefits programs including SNAP, Medicaid, Medicare, TANF etc.
+## <strong>Key Strengths</strong>
+*	Desire to take on challenging tasks 
+*	Highly collaborative and maintain excellent relationships with co-workers and superiors
+*	Believes in continual learning and and in keeping up with latest trends and technologies
+* Strong believer of doing good as a way to give back to our community
+* Speaker at various conferences in the US, Europe and India
+* Highly motivated to deliver more in less time span
+* Excellent communication and presentation skills
 
 Learn more about my projects on [GitHub](https://github.com/susub31).
 
