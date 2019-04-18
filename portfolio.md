@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Initiatives
+title: Projects Portfolio
 ---
 
 <p class="message">
@@ -11,6 +11,7 @@ title: Research Initiatives
 ### <strong> Safety Monitor </strong>
 
 Safety Monitor is a tool, that uses Object Detection using YOLOv3 and Deep Learning on the Edge to monitor safety of workers at construction sites.  This tool can be deployed at sites and can take in video streams from a camera, process and alert a supervisor when it finds workers who are not wearing their personal protective equipment.
+
 Learn more about this project at [Safety Monitor](https://github.com/susub31/safety-monitor)
 
 
@@ -30,12 +31,16 @@ NLP (Natural Language Processing) is a specialized aspect of Machine Learning th
 
 This involved several approaches, building multiple models and leverage the power of BERT pre-trained models and training them on Google Cloud TPU.  One of the aspects we focused on was the nature of the data and how both character embedding and BERT Embedding (for its contextual embedding) would work together.  So, by stacking embeddings, (conceptually a way to combine multiple embeddings), we were able to obtain excellent results on the i2b2 heart disease risk factors challenge dataset. For this, we used Flair package and stacked BERT and character embeddings (BERT-CHAR Embedding), as well as PubMed (forward and backward) embeddings.  
 
+Learn more about this project at [Heart Disease - Identify Risk Factors](https://github.com/susub31/heart-disease-risk-prediction)
+
+
 
 ### <strong>Research Paper</strong>
 
 Co-authored a research paper titled “A stochastic model for automated teller machines subject to catastrophic failures and repairs” with Prof. Chakravarthy, Kettering University (Flint, MI), which has been submitted for publication.  The study applies queuing theory and models arrival of customers as Markovian arrival process (MAP) with a phase-type distribution; analysis of outcomes under different conditions and interpretation through visualizations in R
 
 Learn more details at [Stochastic Model - ATM Failures](https://github.com/susub31/StochasticModel_ATMFailures)
+
 
 
 ### <strong>Presentation at Conference</strong>
