@@ -7,10 +7,15 @@ title: About
   Hey there! Interested in knowing about me?  Carry on!
 </p>
 
-I am a Data specialist with over 22 years of professional experience encompassing building analytics based solutions. I enjoy wrangling with data, with a quest to mine, unearth hidden patterns and derive value from data. In my past projects, I've demonstrated the ability to leverage power of data through exploration and statistical modeling techniques, with a goal to convey a story that influences business decisions.
+Data Scientist with a keen interest to take on challenging business problems and provide a scalable solution.  Successfully demonstrated the power of data through actionable inisghts for businesses.  With over 22 years of professional experience and Master's in Data Science from UC Berkeley, has proven to deliver excellent results in a short span of time.  And, a strong believer that learning never ends.
 
 ## <strong>Core Competencies</strong>
- 
+
+| Core Skills      | Architectures / Algorithms  |
+|------------------|-----------------------------|
+| Deep Learning    | CNN, RNN, LSTM, BLSTM, BERT |
+| Machine Learning | SVM, Naive Bayes, Linear & Logistic Regression, |
+
 *	Data Analysis / Data Engineering
 *	Predictive Modeling / Machine Learning
 *	Insights through Data Visualizations
