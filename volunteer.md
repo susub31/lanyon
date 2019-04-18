@@ -17,7 +17,7 @@ title: Volunteer Activities
 * Member, Silicon Valley Data Science Group
 * Member, [Women Who Code Silicon Valley ](https://www.meetup.com/Women-Who-Code-Silicon-Valley/)
 * Member, WiMLDS (Women in Machine Learning & Data Science)
-* Sponsor, Dallas-R-Users Study Group
+
 
 
 ### <strong>Volunteered with...</strong>
@@ -27,4 +27,9 @@ Participated in Data Dive event at San Francisco (Aug 2016), worked with SparkPo
 Check out what was accomplished at DKSF's [Third DataDive](http://www.datakind.org/blog/datakind-san-franciscos-third-datadive)
 
 
-Enjoy volunteering!
+### <strong>Fellow, Delta Analytics (Jan-June 2018) </strong>
+
+Selected as a Data Fellow and involved in working with Medic Mobile to analyze data from one of their locations.  The goal was to identify effectiveness of caseworkers in providing timely treatment to kids under the age of 5.  We built a scalable model that they could use across any of their locations.
+
+
+Happy to volunteer!

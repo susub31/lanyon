@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Do checkout my portfolio!
+  Do checkout my [portfolio](/portfolio)!
 </p>
 
 Data Scientist with a keen interest to take on challenging business problems and provide a scalable solution.  Successfully demonstrated the power of data through actionable inisghts for businesses.  Proven track record of delivering excellent results, with attention to detail.  Some of the recent work in Data Science includes few cutting-edge projects involving Object Detection, Deep Learning and NLP.  With 22+ years of professional experience and Master's in Data Science from UC Berkeley, a strong believer that learning never ends.

@@ -35,6 +35,22 @@ Learn more about this project at [Heart Disease - Identify Risk Factors](https:/
 
 
 
+### <strong>FoodFlix: Food Recommender App</strong>
+
+Built a food recommender app (MVP) that can taken in user preferences and use that information to recommend new recipes.  The data for this was scraped from 'allrecipes.com' and users were prompted to like / dislike a handful of them to gather user's likings / preferences. 
+
+Check out the app at [FoodFlix - Netflix for Food](https://foodflix-api-heroku.herokuapp.com/)
+
+
+
+### <strong>Facial Keypoint Detection </strong>
+
+Used advanced Deep Learning techniques such as Transfer Learning and Ensemble methods to detect facila keypoints (using Kaggle dataset).  One of the key challenges was limited availability of data for building our DL model.  So, we applied image augmentation techniques such as rotation, reflection, horizontal flipping, histogram equalization, blurring etc. to get additional training data.  We experimented on various architectures including AlexNet, VGGNet as well as tried different activation functions such as ReLu, LeakyReLU.  With hyperparameter tuning, transfer learning and ensemble approach, our results scored an equivalent of rank #16 on Kaggle's private leaderboard.
+
+Check out the code at our Github page at [Facial Keypoint Detection](https://github.com/susub31/Facial-Keypoint-Detection)
+
+
+
 ### <strong>Research Paper</strong>
 
 Co-authored a research paper titled “A stochastic model for automated teller machines subject to catastrophic failures and repairs” with Prof. Chakravarthy, Kettering University (Flint, MI), which has been submitted for publication.  The study applies queuing theory and models arrival of customers as Markovian arrival process (MAP) with a phase-type distribution; analysis of outcomes under different conditions and interpretation through visualizations in R
