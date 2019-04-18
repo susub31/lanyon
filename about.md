@@ -58,7 +58,9 @@ Data Scientist with a keen interest to take on challenging business problems and
 
 Learn more about my projects on [GitHub](https://github.com/susub31).
 
-Learn more about my [Research Initiatives](/research).
+Learn more about my [Portfolio](/portfolio).
+
+Learn more about my [Conference Presentations](/portfolio).
 
 Learn more about my [Volunteer Activities](/volunteer).
 
