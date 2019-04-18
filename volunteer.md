@@ -26,4 +26,8 @@ Participated in Data Dive event at San Francisco (Aug 2016), worked with SparkPo
 
 Check out what was accomplished at DKSF's [Third DataDive](http://www.datakind.org/blog/datakind-san-franciscos-third-datadive)
 
+Data Fellow @ Delta Analytics (Jan - June 2018)
+
+Recipient of Jack Larson Scholarship @ UC Berkeley (January 2019)
+
 Enjoy volunteering!
