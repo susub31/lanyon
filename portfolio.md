@@ -27,6 +27,10 @@ Adventure Time is a tool that can help plan your next road trip. This is a live 
 
 It helps you plan a road trip between two US cities, for up to four people with varied interests. It also balances the interests of the group and takes into account the amount of driving you want to do each day. The tool presents you a proposed route with a list of interesting and fun attractions and provides the options to customize based on your interests. Once you finalize the route, it displays a final itinerary with suggestions for restaurants and accommodation along the way.
 
+The infographic shown below captures why you need Adventure Time compared to other apps.
+
+**![](images/Infographic.png)**
+
 Do check out [Adventure Time](www.adv-times.fun) and plan your next road trip with us!
 
 
