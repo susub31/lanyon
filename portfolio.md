@@ -12,6 +12,11 @@ title: Projects Portfolio
 
 Safety Monitor is a tool, that uses Object Detection using YOLOv3 and Deep Learning on the Edge to monitor safety of workers at construction sites.  This tool can be deployed at sites and can take in video streams from a camera, process and alert a supervisor when it finds workers who are not wearing their personal protective equipment.
 
+Here's a sample of how well our model performed.  The image on the left with red bounding boxes show the ground truth, while the image on the right with teal bounding boxes show the actual predicions from our model.
+
+**![](images/GroundTruth_vs_Predictions.png)**
+
+
 Learn more about this project at [Safety Monitor](https://github.com/susub31/safety-monitor)
 
 
