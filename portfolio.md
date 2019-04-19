@@ -27,11 +27,12 @@ Adventure Time is a tool that can help plan your next road trip. This is a live 
 
 It helps you plan a road trip between two US cities, for up to four people with varied interests. It also balances the interests of the group and takes into account the amount of driving you want to do each day. The tool presents you a proposed route with a list of interesting and fun attractions and provides the options to customize based on your interests. Once you finalize the route, it displays a final itinerary with suggestions for restaurants and accommodation along the way.
 
+Do check out [Adventure Time](www.adv-times.fun) and plan your next road trip with us!
+
 The infographic shown below captures why you need Adventure Time compared to other apps.
 
 **![](images/Infographic.png)**
 
-Do check out [Adventure Time](www.adv-times.fun) and plan your next road trip with us!
 
 
 ### <strong> Identify Heart Disease Risk Factors from Clinical Notes  </strong>
@@ -41,6 +42,8 @@ NLP (Natural Language Processing) is a specialized aspect of Machine Learning th
 This involved several approaches, building multiple models and leverage the power of BERT pre-trained models and training them on Google Cloud TPU.  One of the aspects we focused on was the nature of the data and how both character embedding and BERT Embedding (for its contextual embedding) would work together.  So, by stacking embeddings, (conceptually a way to combine multiple embeddings), we were able to obtain excellent results on the i2b2 heart disease risk factors challenge dataset. For this, we used Flair package and stacked BERT and character embeddings (BERT-CHAR Embedding), as well as PubMed (forward and backward) embeddings.  
 
 Learn more about this project at [Heart Disease - Identify Risk Factors](https://github.com/susub31/heart-disease-risk-prediction)
+
+**![](images/risk_factors.png)**
 
 
 
