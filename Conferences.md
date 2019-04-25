@@ -4,7 +4,7 @@ title: Conference Presentations
 ---
 
 <p class="message">
-  Professional Appearances
+  <strong>Professional Appearances</strong>
 </p>
 
 
