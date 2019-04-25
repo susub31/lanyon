@@ -60,7 +60,7 @@ Learn more about my projects on [GitHub](https://github.com/susub31).
 
 Learn more about my [Portfolio](/portfolio).
 
-Learn more about my [Conference Presentations](/portfolio).
+Learn more about my [Conference Presentations](/Conferences).
 
 Learn more about my [Volunteer Activities](/volunteer).
 
