@@ -8,9 +8,6 @@ title: Conference Presentations
 </p>
 
 
-### <strong>Presented at the following conferences:</strong>
-
-## <strong>Core Competencies</strong>
 
 |Conference       |Topic / Link                  |
 |------------------|-----------------------------|
